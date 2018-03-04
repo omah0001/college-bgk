@@ -1,0 +1,49 @@
+:host .mainWrapper {
+  width: 1200px;
+  margin: 0 auto;
+  background: #F3F0F0;
+}
+
+:host .wrapper {
+  text-align: left;
+  width: 1200px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 130px;
+}
+
+:host body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #292b2c;
+  background-color: #f4f4f4;
+}
+
+:host .contentPanel {
+  min-height: 1000px;
+}
+
+:host .container-inner {
+  min-height: 2055px;
+  background: #fff;
+  border: 1px solid #d8d8d8;
+  float: right;
+  margin-left: -2px;
+  overflow: hidden;
+  padding: 2.5em 0;
+}
+
+:host .footerWrapper {
+  background: #111;
+  border-top: 1px solid #292929;
+  padding: 1.667em 0 1em;
+}
+
+:host /deep/ .card-block {
+  min-height: 1000px;
+}
+
+

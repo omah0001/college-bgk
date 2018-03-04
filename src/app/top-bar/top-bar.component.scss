@@ -1,0 +1,25 @@
+:host /deep/ .navbar {
+  padding: 1rem 1rem !important;
+}
+
+:host .logo {
+  width: 200px;
+  height: 150px;
+  padding-bottom: 10px;
+}
+
+:host .collegeName {
+  color: #025aa5;
+  font-family: cursive;;
+}
+
+:host .collegeSubHeader {
+  color: #0275d8;
+  font-family: cursive;
+}
+
+:host /deep/ .nav-link {
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  padding: 12px;
+}

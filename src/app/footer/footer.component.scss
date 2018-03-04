@@ -1,0 +1,19 @@
+:host .footerWrapper {
+   background: #111;
+   border-top: 1px solid #292929;
+   padding: 1.667em 0 1em;
+ }
+
+:host .marginAlign {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+:host .list-inline {
+  margin: auto !important;
+}
+
+
+a {
+  color: #fff;
+}
